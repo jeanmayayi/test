@@ -1,0 +1,9 @@
+h1{
+    color:blue;
+}
+body{
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
